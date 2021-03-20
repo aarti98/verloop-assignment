@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.coveragerc
+*~
+*.sw[po]
+.idea/*
+.vscode
+.DS_Store
+test_scripts/*
+*.sqlite3
+local.py
+venv/*
+.coverage
+logs/*
+.env
